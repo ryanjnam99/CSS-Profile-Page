@@ -29,6 +29,12 @@ header {
     list-style: none;
 }
 
+button {
+    background-color: aqua;
+    color: white;
+    font-family: sans-serif;
+}
+
 main {
     flex: 2;
 }
@@ -56,6 +62,15 @@ aside {
     position: relative;
     top: 40px;
     left: 20px;
+}
+
+span {
+    border: 2px solid grey;
+    color: black;
+    border-radius: 50%;
+    height:10px;
+    width: 10px;
+    background-color: grey;
 }
 
 .icon {
