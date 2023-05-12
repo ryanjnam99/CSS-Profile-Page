@@ -11,8 +11,6 @@ header {
     margin-bottom: 20px;
 }
 
-
-
 .container {
     width: 800px;
     margin:0 auto;
@@ -108,11 +106,7 @@ span {
     font-size: smaller;
 }
 
-.cardrequests {
-    background-color: white;
-    border: 2px solid grey;
-    box-shadow: 2px black;
-}
+
 .header-three {
     background-color:rgb(95, 92, 92);
     color: white;
